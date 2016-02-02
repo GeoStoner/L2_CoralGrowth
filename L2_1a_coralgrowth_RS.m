@@ -2,6 +2,7 @@
 % plates
 % Eqns and vals from: The dynamics of foreland basin carbonate platforms
 % Galewsky (1998)
+% Needs function CorGrow.m to run
 
 % Written by Ryan Stoner jan 31, 2016
 
