@@ -1,2 +1,2 @@
-# L2_CoralGrowth
+# L3_CoralGrowth
 Matlab models of coral growth
